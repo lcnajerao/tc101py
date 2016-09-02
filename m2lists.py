@@ -25,4 +25,4 @@ print(results[0:3]) #the function will exclude the upper limit
 print("Ninth Example")
 print(results*3)
 print("Tenth Example")
-print(results[1]*3) 
+print(results[1]*3)
