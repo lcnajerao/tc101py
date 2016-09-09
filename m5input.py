@@ -9,7 +9,7 @@ print("varName = (varType(input('Message'))")
 print("Or for a char or a string the structure is")
 print("varName = input('Message')")
 print("The next program will calculate the area of a cubic paralelogram in cubic cm")
-result["Lenght"]= float(input("Introduce the Lenght of your Paralelogram in cm^3 "))
+result["Lenght"]= float(input(result["Area"]))
 result["Width"] = float(input( "Introduce the Width of your Paralelogram in cm^3 "))
 result["Height"]= float(input("Introduce the Height of your Paralelogram in cm^3 "))
 result["Area"]  = result["Lenght"]*result["Width"]*result["Height"]
