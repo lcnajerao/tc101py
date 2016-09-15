@@ -37,3 +37,6 @@ elif((unit == "K" or unit == "k")and(conv == "C" or conv == "c")):
 elif((unit == "K" or unit == "k")and(conv == "F" or conv == "f")):
     result = value * (9/5) - 459.67
     print("Your temperature is ",result," º",conv,)
+
+else:
+    print("Not valid input")
