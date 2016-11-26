@@ -1,4 +1,4 @@
-#m8ifelif.py With the objective of explain the if elif used By Luis Najera
+#m8ifelif.py With the objective of explain the if elif used By Luis Carlos Najera
 #For www.codewithcharlie.com
 #Begins Variable definition
 value  = 0.0
